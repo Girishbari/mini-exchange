@@ -1,0 +1,14 @@
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/.env.local
+backend/*.log
+backend/coverage/
+backend/.DS_Store
+
+mini-exchange/node_modules/
+mini-exchange/dist/
+mini-exchange/.env.local
+mini-exchange/*.log
+mini-exchange/coverage/
+mini-exchange/.DS_Store
